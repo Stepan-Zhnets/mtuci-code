@@ -2,3 +2,4 @@
 .vscode/
 
 # Python
+__pycache__/
