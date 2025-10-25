@@ -1,5 +1,5 @@
 import math
 
-number = 9
+number = int(input("Введи число: "))
 func = math.sqrt(number)
 print(func)

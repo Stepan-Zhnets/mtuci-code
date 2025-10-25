@@ -7,5 +7,5 @@ class Boock():
     def get_info(self)->str:
         return f'Название книги: {self.title}, Автор: {self.author}, Год издания: {self.year}'
 
-boock = Boock("Блекаут", "Александр Левченко", 2016)
+boock = Boock("Блэкаут", "Александр Левченко", 2016)
 print(boock.get_info())
